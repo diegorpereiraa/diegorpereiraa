@@ -39,22 +39,27 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Languages</h3>
     <img align="center" alt="Js" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="Js" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    
   </div>
 
 <!-- Test Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Test Tools & Frameworks</h3>
+    <h3>Test Frameworks</h3>
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   </div>
 
   <!-- CI/CD Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>CI/CD Frameworks</h3>
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   </div>
   
   <!-- Skills: Libraries -->
