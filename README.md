@@ -40,31 +40,25 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black]">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Test Tools & Frameworks</h3>
-    SELENIUM
-    POSTMAN
-    SOAPUI
-    FIGMA
-    MIRO
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-    
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="[https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white]">
-    
-    <img align="center" alt="Bash" height="30" width="40" src="[https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white]">
+    <img align="center" alt="Js" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+    <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </div>
 
-  <h3>CI/CD Tools & Frameworks</h3>
-JENKINS
-MAVEN
+<!-- Test Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Test Tools & Frameworks</h3>
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </div>
+
+  <!-- CI/CD Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>CI/CD Frameworks</h3>
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   </div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>QA Dashboards</h3>
   </div>
 
