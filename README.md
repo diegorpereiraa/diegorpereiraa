@@ -42,7 +42,7 @@
 - [Kafka Topics - 2023](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/kafka_topics)
     <div style="flex-basis: 48%;">
 
-- [Jenkins files - 2023](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/jenkins_groovy_files)
+- [Jenkins Files - 2023](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/jenkins_groovy_files)
     <div style="flex-basis: 48%;">
       
 - [Robot Framework Exercise - 2024](https://github.com/diegorpereiraa/RobotFrameworkExercise)
