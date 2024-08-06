@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Please, be my guest :)</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -30,16 +30,26 @@
   
 <!-- Portfolio -->
 ## Portfolio:
-- [RobotFrameworkExercise](https://github.com/diegorpereiraa/RobotFrameworkExercise)
 
+<!-- Portfolio: Projects -->
+  <div style="flex-basis: 48%;">
+    <h4>Projects</h4>
+    
+- [RobotFrameworkExercise](https://github.com/diegorpereiraa/RobotFrameworkExercise)
+  </div>
+  
+<!-- Portfolio: Docs -->
+  <div style="flex-basis: 48%;">
+    <h4>QA Dashboards</h4>
+    <img align="center" height="300" width="200" src="https://raw.githubusercontent.com/diegorpereiraa/diegorpereiraa/main/assets/QA%20Dashboard%20-%20Financial%20Services.PNG" alt="Imagem">
+  </div>
+  
 <!-- Challenges / Practicing -->
 ## Challenges / Practicing:
-<img align="center" alt="Js" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
-- [Salesforce Trailhead]()
-<img align="center" alt="Js" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
-- [Exercism]()
-<img align="center" alt="Js" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-- [HackerRank]()
+
+[![Trailhead](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/drpereira)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/diegorpereira)
+[![Hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/diego_rpereira88)
 
 <!-- GIF -->
 <p align="left">
@@ -65,6 +75,7 @@
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white">
   </div>
 
   <!-- CI/CD Frameworks -->
@@ -103,10 +114,4 @@
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
-  
-  <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
-    <h3>QA Dashboards</h3>
-    <img align="center" alt="Jupyter" src="https://drive.google.com/file/d/1Ywsnn56lcJpE4VE8JLFoZrvnOS-Zv3OO/view?usp=drive_link">
-  </div>
-
