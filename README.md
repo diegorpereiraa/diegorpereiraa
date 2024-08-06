@@ -49,7 +49,7 @@
   </div>
   
 <!-- Challenges / Practicing -->
-## 🏋️ Click to check my challenges & practicing profiles:
+## 🏋️ Click on the icons below to check my challenges & practicing profiles:
 
 [![Trailhead](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/drpereira)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/diegorpereira)
