@@ -36,10 +36,16 @@
   <div style="flex-basis: 48%;">
     <h4>Projects</h4>
     
-- [Postman&Newman - 2021](https://github.com/diegorpereiraa/FinancialServiceTestAPIs)
+- [Postman & Newman - 2021](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/postman_apis)
+    <div style="flex-basis: 48%;">
+
+- [Kafka Topics - 2023](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/kafka_topics)
+    <div style="flex-basis: 48%;">
+
+- [Jenkins files - 2023](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/jenkins_groovy_files)
     <div style="flex-basis: 48%;">
       
-- [RobotFrameworkExercise - 2024](https://github.com/diegorpereiraa/RobotFrameworkExercise)
+- [Robot Framework Exercise - 2024](https://github.com/diegorpereiraa/RobotFrameworkExercise)
   </div>
   
 <!-- Portfolio: Docs -->
@@ -49,7 +55,8 @@
   </div>
   
 <!-- Challenges / Practicing -->
-## 🏋️ Click on the icons below to check my challenges & practicing profiles:
+## 🏋️ Challenges & practicing
+<h4>Click on the icons below to check my profiles:</h4>
 
 [![Trailhead](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/drpereira)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/diegorpereira)
