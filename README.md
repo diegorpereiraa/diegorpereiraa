@@ -24,18 +24,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rpereira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dieguito.pereira/)
 
-<!-- GithubStats -->
-![diegorpereiraa GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorpereiraa&show_icons=true&theme=gotham)
-  </div>
-  
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/diegorpereiraa/diegorpereiraa/main/assets/gif_aquarium.gif" alt="Imagem">
+</p>
+
 <!-- Portfolio -->
-## Portfolio:
+## 📊 Portfolio:
 
 <!-- Portfolio: Projects -->
   <div style="flex-basis: 48%;">
     <h4>Projects</h4>
     
-- [RobotFrameworkExercise](https://github.com/diegorpereiraa/RobotFrameworkExercise)
+- [Postman&Newman - 2021](https://github.com/diegorpereiraa/FinancialServiceTestAPIs)
+    <div style="flex-basis: 48%;">
+      
+- [RobotFrameworkExercise - 2024](https://github.com/diegorpereiraa/RobotFrameworkExercise)
   </div>
   
 <!-- Portfolio: Docs -->
@@ -45,16 +49,11 @@
   </div>
   
 <!-- Challenges / Practicing -->
-## Challenges / Practicing:
+## 🏋️ Click to check my challenges & practicing profiles:
 
 [![Trailhead](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/drpereira)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/diegorpereira)
 [![Hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/diego_rpereira88)
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
