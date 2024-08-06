@@ -34,7 +34,7 @@
 
 <!-- Portfolio: Projects -->
   <div style="flex-basis: 48%;">
-    <h4>Projects</h4>
+    <h4>Artifacts & Projects</h4>
     
 - [Postman & Newman - 2021](https://github.com/diegorpereiraa/portfolio_artifacts/tree/main/postman_apis)
     <div style="flex-basis: 48%;">
