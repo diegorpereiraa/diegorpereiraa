@@ -59,7 +59,6 @@
 <h4>Click on the icons below to check my profiles:</h4>
 
 [![Trailhead](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/drpereira)
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/diegorpereira)
 [![Hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/diego_rpereira88)
 
 ## 🔥 Skills
